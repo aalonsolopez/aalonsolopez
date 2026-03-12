@@ -9,10 +9,6 @@
 
 - 🖥️ Software Engineer Bachelor with passion for technology
 - 📚 Pursuing Master's in Embedded and Distributed Systems at Polytechnic University of Madrid
-- 💼 Software Engineer at [LifeSupportingTechnologies](https://lst.tfo.upm.es)
-- 🚀 Working on exciting projects:
-  - [GravitateHealth](https://github.com/Gravitate-Health)
-  - [IDEA4RC](https://github.com/idea4rc)
 
 ### 🌟 Interests & Goals
 
