@@ -1,14 +1,13 @@
 <div align="center">
   <h1>Alejandro Alonso López</h1>
-  <h3>Software Engineer | Master's Student | Backend Developer</h3>
+  <h3>Backend Software Engineer | Distributed Systems | Cloud-Native Infrastructure</h3>
 </div>
 
 ---
 
 ### 🎓 About Me
 
-- 🖥️ Software Engineer Bachelor with passion for technology
-- 📚 Pursuing Master's in Embedded and Distributed Systems at Polytechnic University of Madrid
+- 🖥️ Software Engineer Bachelor, Embedded and Distributed Systems Masters
 
 ### 🌟 Interests & Goals
 
